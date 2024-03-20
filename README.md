@@ -1,24 +1,9 @@
-# README
+# MyStyle - renovation of apartments
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is for people who want to make high-quality repairs with the help of a professional team.
 
-Things you may want to cover:
+Ruby & Rails version
 
-* Ruby version
+* ruby 2.7.2
+* rails 6.1.7
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
